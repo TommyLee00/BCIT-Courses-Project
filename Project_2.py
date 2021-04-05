@@ -1,3 +1,5 @@
+#This application scrapes uniform rows of content from three pages of Uniqlo site with data cleansing and store the data in a csv file
+#The second website was from Stat Canada and the data was scraped and visualized in a bar chart to show 2020 average population in provinces of Canada
 PATH = "D:\\Class\\COMP 2454\\Dataset\\"
 CHROME = "chromedriver.exe"
 CSV_FILE = "jacketprices.csv"
