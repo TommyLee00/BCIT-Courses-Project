@@ -1,3 +1,5 @@
+#This application allows users to examine daily and cumulative changes to closing price and volume for stocks in the stock market.  
+#The application prompts the user to either examine a stock or terminate the application.
 import pandas_datareader as pdr
 import datetime
 import pandas as pd
